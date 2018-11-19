@@ -1,0 +1,301 @@
+[
+  {
+    "dn": "CN=admail,OU=AL.信息中心,OU=A.集团总部,OU=益田集团,DC=yitiangroup,DC=com",
+    "bind_type": "ad",
+    "user_slug": "admail@yitiangroup.com",
+    "user_name": "admail",
+    "email": "",
+    "team_path": [
+      "益田集团/A.集团总部/AL.信息中心"
+    ],
+    "entry_type": "user",
+    "phone": "",
+    "object_id": "77+977+9S++/vU/vv73vv71M77+977+9eB7tkIEl",
+    "timesid": "769c756b803c9518084bf1f923f6d435",
+    "ad_user_name": "admail"
+  },
+  {
+    "dn": "CN=AL03.黄联宗,OU=AL.信息中心,OU=A.集团总部,OU=益田集团,DC=yitiangroup,DC=com",
+    "bind_type": "ad",
+    "user_slug": "huanglz@yitiangroup.com",
+    "user_name": "AL03.黄联宗",
+    "email": "huanglz@yitiangroup.com",
+    "team_path": [
+      "益田集团/A.集团总部/AL.信息中心"
+    ],
+    "entry_type": "user",
+    "phone": "13760129518",
+    "object_id": "77+9aO+/vXZacO+/vU3vv70y77+977+977+9MO+/vQ8=",
+    "timesid": "769c756b803c9518084bf1f923f6d435",
+    "ad_user_name": "huanglz"
+  },
+  {
+    "dn": "CN=AL05.吴颉飞,OU=AL.信息中心,OU=A.集团总部,OU=益田集团,DC=yitiangroup,DC=com",
+    "bind_type": "ad",
+    "user_slug": "wujf@yitiangroup.com",
+    "user_name": "AL05.吴颉飞",
+    "email": "wujf@yitiangroup.com",
+    "team_path": [
+      "益田集团/A.集团总部/AL.信息中心"
+    ],
+    "entry_type": "user",
+    "phone": "",
+    "object_id": "77+9Tu+/ve+/ve+/vdWUT++/ve+/vUFt77+977+9Djk=",
+    "timesid": "769c756b803c9518084bf1f923f6d435",
+    "ad_user_name": "wujf"
+  },
+  {
+    "dn": "CN=AL06.唐威,OU=AL.信息中心,OU=A.集团总部,OU=益田集团,DC=yitiangroup,DC=com",
+    "bind_type": "ad",
+    "user_slug": "tangw@yitiangroup.com",
+    "user_name": "AL06.唐威",
+    "email": "tangw@yitiangroup.com",
+    "team_path": [
+      "益田集团/A.集团总部/AL.信息中心"
+    ],
+    "entry_type": "user",
+    "phone": "15013634642",
+    "object_id": "77+977+977+9bO+/ve+/ve+/vUvvv70AWyonXe+/vQA=",
+    "timesid": "769c756b803c9518084bf1f923f6d435",
+    "ad_user_name": "tangw"
+  },
+  {
+    "dn": "CN=AL04.曹宇,OU=AL.信息中心,OU=A.集团总部,OU=益
+    田集团,
+    DC=yitiangroup,
+    DC=com
+    ","
+    bind_type
+    ":"
+    ad
+    ","
+    user_slug
+    ":"
+    caoy@yitiangroup.com
+    ","
+    user_name
+    ":"
+    AL04.曹宇
+    ","
+    email
+    ":"
+    caoy@yitiangroup.com
+    ","
+    team_path
+    ":["
+    益田集团/A.集团总部/AL.信息中心
+    "],"
+    entry_type
+    ":"
+    user
+    ","
+    phone
+    ":"
+    ","
+    object_id
+    ":"
+    Ce
+    +
+    /vU/Cg0jvv71B77
+    +
+    977
+    +
+    977
+    +
+    977
+    +
+    977
+    +
+    9Fjbvv70=
+    ","
+    timesid
+    ":"
+    769c756b803c9518084bf1f923f6d435
+    ","
+    ad_user_name
+    ":"
+    caoy
+    "},{"
+    dn
+    ":"
+    CN=AL06.彭秋华,
+    OU=AL.信息中心,
+    OU=A.集团总部,
+    OU=益田集团,
+    DC=yitiangroup,
+    DC=com
+    ","
+    bind_type
+    ":"
+    ad
+    ","
+    user_slug
+    ":"
+    pengqh@yitiangroup.com
+    ","
+    user_name
+    ":"
+    AL06.彭秋华
+    ","
+    email
+    ":"
+    pengqh@yitiangroup.com
+    ","
+    team_path
+    ":["
+    益田集团/A.集团总部/AL.信息中心
+    "],"
+    entry_type
+    ":"
+    user
+    ","
+    phone
+    ":"
+    ","
+    object_id
+    ":"
+    77
+    +
+    9Pe
+    +
+    /ve
+    +
+    /ve
+    +
+    /vQ3vv71N77
+    +
+    977
+    +
+    977
+    +
+    9CR0qHiM=
+    ","
+    timesid
+    ":"
+    769c756b803c9518084bf1f923f6d435
+    ","
+    ad_user_name
+    ":"
+    pengqh
+    "},{"
+    dn
+    ":"
+    CN=AL09.林伟涛,
+    OU=AL.信息中心,
+    OU=A.集团总部,
+    OU=益田集团,
+    DC=yitiangroup,
+    DC=com
+    ","
+    bind_type
+    ":"
+    ad
+    ","
+    user_slug
+    ":"
+    lwt@yitiangroup.com
+    ","
+    user_name
+    ":"
+    AL09.林伟涛
+    ","
+    email
+    ":"
+    lwt@yitiangroup.com
+    ","
+    team_path
+    ":["
+    益田集团/A.集团总部/AL.信息中心
+    "],"
+    entry_type
+    ":"
+    user
+    ","
+    phone
+    ":"
+    13751113136
+    ","
+    object_id
+    ":"
+    fxvvv71WNx5wSu
+    +
+    /vSNS77
+    +
+    9Lyrvv716
+    ","
+    timesid
+    ":"
+    769c756b803c9518084bf1f923f6d435
+    ","
+    ad_user_name
+    ":"
+    lwt
+    "},{"
+    dn
+    ":"
+    CN=AL10.刘冬风,
+    OU=AL.信息中心,
+    OU=A.集团总部,
+    OU=益田集团,
+    DC=yitiangroup,
+    DC=com
+    ","
+    bind_type
+    ":"
+    ad
+    ","
+    user_slug
+    ":"
+    liudf@yitiangroup.com
+    ","
+    user_name
+    ":"
+    AL10.刘冬风
+    ","
+    email
+    ":"
+    liudf@yitiangroup.com
+    ","
+    team_path
+    ":["
+    益田集团/A.集团总部/AL.信息中心
+    "],"
+    entry_type
+    ":"
+    user
+    ","
+    phone
+    ":"
+    ","
+    object_id
+    ":"
+    77
+    +
+    977
+    +
+    977
+    +
+    9Yu
+    +
+    /vduNT
+    +
+    +
+    /vRp577
+    +
+    977
+    +
+    977
+    +
+    9C
+    +
+    +
+    /vQ==
+    ","
+    timesid
+    ":"
+    769c756b803c9518084bf1f923f6d435
+    ","
+    ad_user_name
+    ":"
+    liudf
+    "}]
