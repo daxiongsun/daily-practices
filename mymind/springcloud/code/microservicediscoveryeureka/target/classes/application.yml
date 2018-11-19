@@ -1,0 +1,8 @@
+server:
+  port: 8786
+eureka:
+  client:
+    registerWithEureka: false  # 是否将自己注册到 Eureka Server
+    fetchRegistry: false  # 是否从 Eureka Server 获取注册信息
+    serviceUrl:
+      defaultZone: http://localhost:8786/eureka/  # 与 Eureka Server 交互地址
