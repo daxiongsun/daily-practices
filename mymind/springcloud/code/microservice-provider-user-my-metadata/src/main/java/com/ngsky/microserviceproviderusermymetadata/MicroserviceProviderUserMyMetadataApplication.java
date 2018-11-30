@@ -8,7 +8,5 @@ public class MicroserviceProviderUserMyMetadataApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MicroserviceProviderUserMyMetadataApplication.class, args);
-
-        java.lang.Class
     }
 }
