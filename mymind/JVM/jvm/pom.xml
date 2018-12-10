@@ -4,7 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
+<<<<<<< HEAD
     <groupId>com.ngsky.jvm</groupId>
+=======
+    <groupId>com.ngsky</groupId>
+>>>>>>> d41be733b0942f4c0cc5ef373eea0c9010dd935c
     <artifactId>jvm</artifactId>
     <version>1.0-SNAPSHOT</version>
 
