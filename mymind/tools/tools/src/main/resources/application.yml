@@ -1,0 +1,28 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/ngsky_bigdata?zeroDateTimeBehavior=convertToNull&useUnicode=true&characterEncoding=utf8
+    username: root
+    password: daxiong
+    initialSize: 5
+    minIdle: 5
+    maxActive: 20
+    # 配置获取连接等待时间
+    maxWait: 60000
+    # 配置多久进行一次检测
+    timeBetweenEvictionRunsMillis: 60000
+    # 配置监控统计拦截
+    filters: stat,wall,log4j
+    # 打开mergeSql 功能，慢SQL记录
+    connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=5000
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  security:
+    user:
+      name: admin
+      password: admin
+
