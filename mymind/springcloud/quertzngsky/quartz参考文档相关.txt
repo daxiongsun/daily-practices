@@ -1,0 +1,14 @@
+1.SpringBoot整合Quartz完整实用例子
+https://www.cnblogs.com/ealenxie/p/9134602.html
+
+2.SpringBoot集成Quartz动态定时任务
+https://blog.csdn.net/upxiaofeng/article/details/79415108
+
+3.springboot 整合quartz详解
+https://blog.csdn.net/weixin_42071874/article/details/82983542
+
+4.Quartz学习——Quartz大致介绍（一）
+https://blog.csdn.net/u010648555/article/details/54863144
+
+5.quartz （从原理到应用）详解篇
+https://blog.csdn.net/lkl_csdn/article/details/73613033

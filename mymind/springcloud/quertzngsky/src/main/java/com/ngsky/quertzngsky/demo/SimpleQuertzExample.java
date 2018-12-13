@@ -26,7 +26,7 @@ public class SimpleQuertzExample {
             scheduler.scheduleJob(jobDetailS, triggerS);
 
             // 创建并注册全局 Job Listener
-            scheduler.getListenerManager().addJobListener();
+//            scheduler.getListenerManager().addJobListener();
 
 
         } catch (SchedulerException e) {
